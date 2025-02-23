@@ -1,9 +1,590 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Страница — 1" id="P8rvPxL0oPwC9ZWwkqs0">
-    <mxGraphModel>
+    <mxGraphModel dx="607" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-107" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="294" y="70" width="200" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry y="20" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgFlat;strokeColor=#18211b;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry x="8" y="80" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-82" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.iAppBar;strokeWidth=1;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry x="8" y="81" width="180" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-83" value="CARRIER" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.anchor;align=left;fontSize=8;spacingLeft=18;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-82">
+          <mxGeometry y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-84" value="11:55PM" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.rect;fontSize=8;strokeColor=none;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-82">
+          <mxGeometry x="61.714285714285715" y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-88" value="" style="shape=rect;fillColor=#F6F6F8;strokeColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry width="164" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-89" value="Список исполнителей" style="text;fontColor=#0080f0;fontSize=10;verticalAlign=middle;align=left;spacingTop=2;spacingRight=4;whiteSpace=wrap;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-88">
+          <mxGeometry y="10" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-97" value="&lt;b&gt;Новый заказ&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=center;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry x="15.600000000000023" y="103.12" width="168.8" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-101" value="Назначить исполнителя" style="strokeWidth=1;html=1;shadow=1;dashed=0;shape=mxgraph.ios.iButton;strokeColor=#444444;fontColor=#ffffff;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;whiteSpace=wrap;align=center;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry x="36" y="242" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-102" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iKeybLett;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry x="8" y="290" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-106" value="" style="group;rotation=0;" vertex="1" connectable="0" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry x="13" y="121" width="172.79999999999998" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-90" value="Default text" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=left;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-106">
+          <mxGeometry y="11" width="171.6" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-98" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Название заказа&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-106">
+          <mxGeometry x="1.1999999999999886" width="168.80000000000004" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-100" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Описание заказа&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-106">
+          <mxGeometry x="1" y="36" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-218" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=left;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-106">
+          <mxGeometry x="0.19999999999999996" y="47.5" width="171.6" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-278" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.flagged;strokeColor=#0080f0;rotation=45;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-107">
+          <mxGeometry x="172.39999999999998" y="105.56" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-108" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="71" width="200" height="419" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry y="19" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgFlat;strokeColor=#18211b;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="10" y="79" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-8" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="10" y="199" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-9" value="&lt;b&gt;Заказ 3&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-8">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-10" value="22:45" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-8">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-11" value="I just got a new friend" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-8">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-12" value="You know I wanted a dog. Yesterday I got a puppy ..." style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=5;spacingLeft=17;fontColor=#808080;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-8">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-13" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="10" y="239" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-14" value="Заказ 4" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-13">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-15" value="22:45" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-13">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-16" value="I just got a new friend" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-13">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-17" value="You know I wanted a dog. Yesterday I got a puppy ..." style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=5;spacingLeft=17;fontColor=#808080;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-13">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-18" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="10" y="279" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-19" value="Заказ 5" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-18">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-20" value="22:45" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-18">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-21" value="I just got a new friend" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-18">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-22" value="You know I wanted a dog. Yesterday I got a puppy ..." style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=5;spacingLeft=17;fontColor=#808080;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-18">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-23" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="10" y="319" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-24" value="Заказ 6" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-23">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-25" value="22:45" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-23">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-26" value="I just got a new friend" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-23">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-27" value="You know I wanted a dog. Yesterday I got a puppy ..." style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=5;spacingLeft=17;fontColor=#808080;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-23">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-28" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="10" y="159" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-29" value="&lt;b&gt;Заказ 2&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-28">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-30" value="22:45" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-28">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-31" value="I just got a new friend" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-28">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-32" value="You know I wanted a dog. Yesterday I got a puppy ..." style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=5;spacingLeft=17;fontColor=#808080;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-28">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-33" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="10" y="119" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-34" value="&lt;b&gt;Заказ 1&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-33">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-35" value="22:45" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-33">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-36" value="I just got a new friend" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-33">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-37" value="You know I wanted a dog. Yesterday I got a puppy ..." style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=5;spacingLeft=17;fontColor=#808080;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-33">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-39" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=1;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.increase;strokeColor=#0D0D0D;fillColor=#3333FF;opacity=70;perimeterSpacing=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="160" y="309" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-40" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.iAppBar;strokeWidth=1;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="10" y="80" width="180" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-41" value="CARRIER" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.anchor;align=left;fontSize=8;spacingLeft=18;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-40">
+          <mxGeometry y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-42" value="11:55PM" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.rect;fontSize=8;strokeColor=none;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-40">
+          <mxGeometry x="61.714285714285715" y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-43" value="" style="shape=rect;fillColor=#e0e0e0;strokeColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry x="14" y="99" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-44" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMargin=5;strokeColor=none;align=center;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-43">
+          <mxGeometry width="169.99999999999994" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-45" value="Search" style="shape=mxgraph.ios7.icons.looking_glass;strokeColor=#e0e0e0;fillColor=none;fontColor=#e0e0e0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=6;fontStyle=0;spacingTop=2;sketch=0;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-43">
+          <mxGeometry x="0.5" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-17" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-46" value="" style="shape=rect;fillColor=#F6F6F8;strokeColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-108">
+          <mxGeometry width="164" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-48" value="Заказы" style="text;fontColor=#0080f0;fontSize=10;verticalAlign=middle;align=right;spacingTop=2;spacingRight=4;whiteSpace=wrap;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-46">
+          <mxGeometry y="8" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-109" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="542" y="70" width="200" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-110" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-109">
+          <mxGeometry y="20" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-111" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgFlat;strokeColor=#18211b;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-109">
+          <mxGeometry x="8" y="80" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-112" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.iAppBar;strokeWidth=1;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-109">
+          <mxGeometry x="8" y="81" width="180" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-113" value="CARRIER" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.anchor;align=left;fontSize=8;spacingLeft=18;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-112">
+          <mxGeometry y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-114" value="11:55PM" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.rect;fontSize=8;strokeColor=none;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-112">
+          <mxGeometry x="61.714285714285715" y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-115" value="" style="shape=rect;fillColor=#F6F6F8;strokeColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-109">
+          <mxGeometry width="164" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-116" value="Форма создания нового заказа" style="text;fontColor=#0080f0;fontSize=10;verticalAlign=middle;align=right;spacingTop=2;spacingRight=4;whiteSpace=wrap;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-115">
+          <mxGeometry y="10" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-117" value="&lt;b&gt;Выбрать исполнителя&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=center;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-109">
+          <mxGeometry x="14.600000000000023" y="103.12" width="168.8" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-251" value="" style="group" vertex="1" connectable="0" parent="TdH_wbW4S61UhDxHVzPf-109">
+          <mxGeometry x="20" y="128" width="160" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-149" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-251">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-150" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-149">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-151" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-149">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-152" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-149">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-175" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-149">
+          <mxGeometry x="-10" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-186" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-251">
+          <mxGeometry y="32" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-187" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-186">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-188" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-186">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-189" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-186">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-190" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-186">
+          <mxGeometry x="-10" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-191" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-251">
+          <mxGeometry y="62" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-192" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-191">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-193" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-191">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-194" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-191">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-195" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-191">
+          <mxGeometry x="-10" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-207" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-251">
+          <mxGeometry y="152" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-208" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-207">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-209" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-207">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-210" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-207">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-211" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-207">
+          <mxGeometry x="-10" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-244" value="" style="endArrow=none;html=1;rounded=0;exitX=0.019;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.957;entryY=1.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TdH_wbW4S61UhDxHVzPf-251" source="TdH_wbW4S61UhDxHVzPf-111" target="TdH_wbW4S61UhDxHVzPf-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="18.004000000000133" y="28" as="sourcePoint" />
+            <mxPoint x="127.96000000000004" y="28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-277" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.flagged;strokeColor=#0080f0;rotation=45;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-109">
+          <mxGeometry x="171" y="105.56" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-196" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="562" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-197" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-196">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-198" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-196">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-199" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-196">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-200" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-196">
+          <mxGeometry x="-10" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-202" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="562" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-203" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-202">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-204" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-202">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-205" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-202">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-206" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-202">
+          <mxGeometry x="-10" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-212" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="562" y="380" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-213" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-212">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-214" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-212">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-215" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-212">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-216" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-212">
+          <mxGeometry x="-10" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-219" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="794" y="70" width="260" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-220" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-219">
+          <mxGeometry y="20" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-221" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgFlat;strokeColor=#18211b;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-219">
+          <mxGeometry x="8" y="80" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-222" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.iAppBar;strokeWidth=1;sketch=0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-219">
+          <mxGeometry x="8" y="81" width="180" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-223" value="CARRIER" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.anchor;align=left;fontSize=8;spacingLeft=18;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-222">
+          <mxGeometry y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-224" value="11:55PM" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.rect;fontSize=8;strokeColor=none;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-222">
+          <mxGeometry x="61.714285714285715" y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-225" value="" style="shape=rect;fillColor=#F6F6F8;strokeColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-219">
+          <mxGeometry y="-3" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-226" value="Форма создания нового заказа (исполнитель выбран)" style="text;fontColor=#0080f0;fontSize=10;verticalAlign=middle;align=right;spacingTop=2;spacingRight=4;whiteSpace=wrap;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-225">
+          <mxGeometry y="10" width="260" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-242" value="" style="group" vertex="1" connectable="0" parent="TdH_wbW4S61UhDxHVzPf-219">
+          <mxGeometry x="8" y="110" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-227" value="&lt;b&gt;Новый заказ&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=center;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-242">
+          <mxGeometry x="5.600000000000023" width="168.8" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-230" value="" style="group;rotation=0;" vertex="1" connectable="0" parent="TdH_wbW4S61UhDxHVzPf-242">
+          <mxGeometry x="3" y="17.879999999999995" width="172.79999999999998" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-231" value="Default text" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=left;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-230">
+          <mxGeometry y="11" width="171.6" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-232" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Название заказа&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-230">
+          <mxGeometry x="1.1999999999999886" width="168.80000000000004" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-233" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Описание заказа&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-230">
+          <mxGeometry x="1" y="36" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-234" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=left;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-230">
+          <mxGeometry x="0.19999999999999996" y="47.5" width="171.6" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-236" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-242">
+          <mxGeometry x="13" y="144.88" width="160" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-237" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-236">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-238" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-236">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-239" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-236">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-240" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-236">
+          <mxGeometry x="-10" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-241" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Исполнитель&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-242">
+          <mxGeometry x="3" y="134.88" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-276" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.flagged;strokeColor=#0080f0;rotation=45;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-242">
+          <mxGeometry x="158" y="3.4399999999999977" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-243" value="Сохранить" style="rounded=1;html=1;shadow=1;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#6666FF;align=center;strokeColor=#B3B3B3;fontColor=#333333;aspect=fixed;glass=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-219">
+          <mxGeometry x="33" y="310" width="137" height="21.92" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-245" value="" style="endArrow=none;html=1;rounded=0;exitX=0.019;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.957;entryY=1.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="409" as="sourcePoint" />
+            <mxPoint x="720" y="409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-246" value="" style="endArrow=none;html=1;rounded=0;exitX=0.019;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.957;entryY=1.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="377" as="sourcePoint" />
+            <mxPoint x="720" y="377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-247" value="" style="endArrow=none;html=1;rounded=0;exitX=0.019;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.957;entryY=1.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="347" as="sourcePoint" />
+            <mxPoint x="720" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-248" value="" style="endArrow=none;html=1;rounded=0;exitX=0.019;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.957;entryY=1.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="317" as="sourcePoint" />
+            <mxPoint x="720" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-249" value="" style="endArrow=none;html=1;rounded=0;exitX=0.019;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.957;entryY=1.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="287" as="sourcePoint" />
+            <mxPoint x="720" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-250" value="" style="endArrow=none;html=1;rounded=0;exitX=0.019;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.957;entryY=1.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="257" as="sourcePoint" />
+            <mxPoint x="720" y="257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-253" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="90" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-254" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgFlat;strokeColor=#18211b;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="150" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-255" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.iAppBar;strokeWidth=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="151" width="180" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-256" value="CARRIER" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.anchor;align=left;fontSize=8;spacingLeft=18;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-255">
+          <mxGeometry y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-257" value="11:55PM" style="html=1;shadow=0;dashed=0;shape=mxgraph.ios.rect;fontSize=8;strokeColor=none;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-255">
+          <mxGeometry x="61.714285714285715" y="2" width="51.42857142857142" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-258" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1068" y="180" width="180" height="180.88" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-259" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Заказ&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=center;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-258">
+          <mxGeometry x="5.600000000000023" width="168.8" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-265" value="" style="shape=rect;strokeColor=none;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-258">
+          <mxGeometry x="13" y="151.88" width="167" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-266" value="&lt;b&gt;Имя исполнителя&lt;/b&gt;" style="shape=ellipse;strokeColor=none;fillColor=#007FF8;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-265">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-267" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=8;spacingRight=4;fontColor=#999999;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-265">
+          <mxGeometry x="1" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-268" value="статус исполнителя" style="shape=text;strokeColor=none;align=left;verticalAlign=middle;fontSize=7;spacingLeft=17;fontColor=#000000;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-265">
+          <mxGeometry width="164" height="10" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-269" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_focused;sketch=0;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-265">
+          <mxGeometry x="-10.4375" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-270" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Исполнитель&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-258">
+          <mxGeometry x="2" y="139.88" width="170" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-275" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.left;strokeColor=#0080f0;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-258">
+          <mxGeometry x="7" y="2.4399999999999977" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-272" value="" style="shape=rect;fillColor=#F6F6F8;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="67" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-273" value="Форма создания нового заказа (заказ выбран)" style="text;fontColor=#0080f0;fontSize=10;verticalAlign=middle;align=left;spacingTop=2;spacingRight=4;whiteSpace=wrap;html=1;" vertex="1" parent="TdH_wbW4S61UhDxHVzPf-272">
+          <mxGeometry y="10" width="260" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TdH_wbW4S61UhDxHVzPf-274" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Название заказа&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="200" width="180" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
